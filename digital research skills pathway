@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T15:24:10.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="bhXdHGFpfXdrA4yP1Nu_" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T15:25:55.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Y_gBh0p7YUanZ__5LaY4" version="14.7.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="858" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -8,9 +8,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prTWr4LAwnES66DsCiiw-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-23" target="prTWr4LAwnES66DsCiiw-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="prTWr4LAwnES66DsCiiw-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-23" target="prTWr4LAwnES66DsCiiw-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="HUMPR101 - Digital Research Skills Part 1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
@@ -40,6 +37,9 @@
         <mxCell id="prTWr4LAwnES66DsCiiw-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="prTWr4LAwnES66DsCiiw-1" target="prTWr4LAwnES66DsCiiw-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="prTWr4LAwnES66DsCiiw-107" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="prTWr4LAwnES66DsCiiw-1" target="prTWr4LAwnES66DsCiiw-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="prTWr4LAwnES66DsCiiw-1" value="HUMPR102 - Digital Research Skills Part 2" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="530" width="250" height="100" as="geometry" />
         </mxCell>
@@ -58,7 +58,7 @@
         <mxCell id="prTWr4LAwnES66DsCiiw-6" value="RDF" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prTWr4LAwnES66DsCiiw-5">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="prTWr4LAwnES66DsCiiw-7" value="A1, C1, C2, D2" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="prTWr4LAwnES66DsCiiw-5">
+        <mxCell id="prTWr4LAwnES66DsCiiw-7" value="A1, B1, C1, C2, D2" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="prTWr4LAwnES66DsCiiw-5">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="prTWr4LAwnES66DsCiiw-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="prTWr4LAwnES66DsCiiw-14">
@@ -91,6 +91,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prTWr4LAwnES66DsCiiw-92" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="prTWr4LAwnES66DsCiiw-27" target="prTWr4LAwnES66DsCiiw-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prTWr4LAwnES66DsCiiw-99" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="prTWr4LAwnES66DsCiiw-23" target="C-vyLk0tnHw3VtMMgP7b-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prTWr4LAwnES66DsCiiw-23" value="HUMPR021 - Library Research Support" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
@@ -206,6 +209,27 @@
         </mxCell>
         <mxCell id="prTWr4LAwnES66DsCiiw-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="prTWr4LAwnES66DsCiiw-27" target="prTWr4LAwnES66DsCiiw-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prTWr4LAwnES66DsCiiw-100" value="Data Drop-Ins" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="710" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="prTWr4LAwnES66DsCiiw-101" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="prTWr4LAwnES66DsCiiw-100">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prTWr4LAwnES66DsCiiw-102" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="prTWr4LAwnES66DsCiiw-101">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prTWr4LAwnES66DsCiiw-103" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="prTWr4LAwnES66DsCiiw-101">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prTWr4LAwnES66DsCiiw-104" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="prTWr4LAwnES66DsCiiw-100">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prTWr4LAwnES66DsCiiw-105" value="RDF" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prTWr4LAwnES66DsCiiw-104">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prTWr4LAwnES66DsCiiw-106" value="A1, B1, A2, C1, C2, D2, D3" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="prTWr4LAwnES66DsCiiw-104">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
